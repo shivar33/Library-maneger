@@ -1,1 +1,1 @@
-# Library-maneger
+# Library-manager
